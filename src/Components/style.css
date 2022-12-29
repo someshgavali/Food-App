@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.hove{
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.hove:hover{
+    box-shadow: 0 0 10px 2px rgba(184, 39, 39, 0.1);
+    transition: .5s;
+
+}
+.cd{
+    border-radius: 16px;
+    margin-top: 20px;
+    height: 16rem;
+}
+.upper_data{
+    font-size: 18px;
+    color: rgb(17,17,17,0.849);
+    letter-spacing: 0.5px;
+    font-weight: 500;
+
+}
+
+.upper_data > span{
+    background-color:rgb(36,150,63);
+    border-radius: 6px;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 2px 1px;
+    width: 45px;
+}
+
+.lower_data > h5{
+    font-size: 15px;
+    letter-spacing: .4px;
+    font-weight: 400;
+    color: rgb(17,17,17,0.849);
+}
+.lower_data span{
+    font-size: 15px;
+    letter-spacing: .4px;
+    color: rgb(17,17,17,0.849);
+}
+
+.extra{
+    border-bottom: 1px solid  rgba(174, 156, 156, 0.849) ;
+}
+
+.last_data .limg{
+    width: 18px;
+}
+
+.last_data p{
+    font-size: 14px;
+    margin-top: 18px;
+    letter-spacing: .2px;
+    color: rgb(17,17,17,0.849);
+}
+
+.last_data .laimg{
+    width: 45px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
